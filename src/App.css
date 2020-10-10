@@ -1,3 +1,14 @@
+form {
+  margin:220px;
+  margin-top: 25px;
+  padding: 1.5;
+  background: white;
+  border-radius: 1em;
+  border-color: black;
+   
+}
+
+
 .App {
   text-align: center;
 }
